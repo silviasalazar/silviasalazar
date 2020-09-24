@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi everyone ✨
+*Bienvenido a mi perfil de Github*
+Actualmente estudió la carrera de Ing. en Sistemas Computacionales en el Instituto Tecnológico de Tijuana(ITT) 🏛
 
-<!--
-**silviasalazar/silviasalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***En mis tiempos libres me gusta:***
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Ver anime y peliculas 🎬
+
+
+-Dormir 💤
+
+
+-Estudiar algunos otros temas referente a mis carrera o con diseño 💻🎨
+
+
+-Mirar como se desarrollan algunas juegos ya que me gustaria hacer uno 🎮
+
+***My class schedule: ***📅
+| Lunes  	| Martes  	|Miercoles   	|Jueves   	| Viernes 	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
+
+
+
+
+
+
