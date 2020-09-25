@@ -10,16 +10,16 @@ Actualmente estudió la carrera de Ing. en Sistemas Computacionales en el Instit
 ***En mis tiempos libres me gusta:***
 
 
--Ver anime y peliculas 🎬
+- Ver anime y peliculas 🎬
 
 
--Dormir 💤
+- Dormir 💤
 
 
--Estudiar algunos otros temas referente a mis carrera o con diseño 💻🎨
+- Estudiar algunos otros temas referente a mis carrera o con diseño 💻🎨
 
 
--Mirar como se desarrollan algunas juegos ya que me gustaria hacer uno 🎮
+- Mirar como se desarrollan algunas juegos ya que me gustaria hacer uno 🎮
 
 ***My class schedule:*** 📅
 | HORA      	| LUNES                        	| MARTES                       	| MIERCOLES                    	| JUEVES                       	| VIERNES                      	|
