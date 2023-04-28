@@ -1,6 +1,6 @@
 # Hi everyone ✨
-
-<h3>I'm Software Developer, I love learning new technologies, RPA and IA 💻</h3>
+<h3>About me: </h3>
+<p>I'm a software developer who's passionate about creating innovative solutions and learning new technologies, as well as in implementing automation solutions like RPA and Chatbots. I'm always looking to learn and improve my skills to deliver the best work possible. 💻</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
